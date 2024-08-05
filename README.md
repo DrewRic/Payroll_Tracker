@@ -1,9 +1,11 @@
 # Payroll_Tracker
 
-Description
+**Description**
+
 The employee payroll tracker is an application that enables a payroll manager to view and manage employee payroll data. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
 
-Usage
+**Usage**
+
 The main user persona of this project is someone in a managerial role that needs to track payroll of their employees. The following Acceptance Criteria are supported:
 
   -WHEN I click the "Add employee" button THEN I am presented with a series of prompts asking for first name, last name, and salary
